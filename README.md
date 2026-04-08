@@ -2,6 +2,12 @@
 
 Club95 is a prototype Flask based web application for promoting live music groups, artists, and events, with integrated content management and database support.
 
+This project follows an MVC inspired structure:
+
+- Models: SQLAlchemy models in `club95/models.py` handle database schema and data logic.
+- Views: Jinja2 templates in `templates/` handle presentation.
+- Controllers: Flask route handlers manage request flow, user input, and interaction between models and views.
+
 ### Promotional Imagery
 
 This project includes promotional imagery and the band name "Crescent City Players."
