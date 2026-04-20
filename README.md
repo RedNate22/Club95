@@ -18,6 +18,16 @@ The assets are used solely for educational purposes.
 
 They are not to be redistributed or used commercially.
 
+### Screenshots
+
+![main-page1](assets/club95_1)
+
+![main-page2](assets/club95_2)
+
+![event-page1](assets/club95_3)
+
+![event-page2](assets/club95_4)
+
 ### Running the project
 
 #### Installing requirements
