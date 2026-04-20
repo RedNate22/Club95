@@ -22,9 +22,13 @@ They are not to be redistributed or used commercially.
 
 #### Installing requirements
 
-First install the required modules from requirements.txt:
+First setup a virtual environment (recommended) and install the required modules from requirements.txt:
 
 ```bash
+python -m venv .venv
+
+.venv\Scripts\activate
+
 pip install -r requirements.txt
 ```
 
